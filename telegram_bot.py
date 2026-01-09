@@ -1,8 +1,8 @@
 import telebot
 from telebot import types
 
-# ASTROC2M Official API Token from @BotFather
-TOKEN = "8583735786:AAEC8YPv3R3Z0am6Jrl3i2hSByD-nrWncNA"
+
+
 bot = telebot.TeleBot(TOKEN)
 
 # Handler for /start and /help commands
