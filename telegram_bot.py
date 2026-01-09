@@ -1,8 +1,13 @@
 import telebot
 from telebot import types
 
+<<<<<<< HEAD
 
 
+=======
+# ASTROC2M Official API Token from @BotFather
+TOKEN = "YOUR_BOT_TOKEN_HERE
+>>>>>>> 77f7121 (Security: Obfuscated API token for public repository)
 bot = telebot.TeleBot(TOKEN)
 
 # Handler for /start and /help commands
