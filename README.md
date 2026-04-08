@@ -1,41 +1,91 @@
-ASTROC2M | Polygon Community Utility & Ecosystem Protocol 🛰️
-Status: Operational - Phase 1 Genesis
+# ASTROC2M | Gamified Web3 Learning Ecosystem on Polygon 🛰️
 
-Network: Polygon PoS / zkEVM
+**Status:** Operational — Phase 1 Foundation  
+**Network:** Polygon  
+**Vision:** A growing ecosystem built for access, onboarding, interaction, education, and long-term platform expansion.
 
-Vision: Institutional-grade infrastructure for long-term holders.
+ASTROC2M is a live gamified Web3 learning ecosystem on Polygon designed to create a clearer and more engaging path into Web3.
 
-ASTROC2M is a live, high-performance ecosystem on the Polygon Network designed to bridge the gap between complex blockchain data and investor-ready utility. We provide a specialized environment for holders to interact with decentralized infrastructure, gaming, and governance tools.
+Rather than functioning as a speculative product, ASTROC2M is structured as a connected ecosystem that combines NFT-based access, internal utility, interactive experiences, public verification, and a growing game-oriented environment.
 
-💎 Core Value Proposition
-The ASTROC2M protocol was engineered to provide a robust utility layer for digital asset holders. Through our ecosystem, members gain access to:
+## Core Ecosystem Direction
 
-Governance Portal: Strategic tools for active participation in the project’s growth and decision-making processes.
+ASTROC2M is being built as a broader digital environment in expansion.
 
-Tokenized Reward Engine: A structured benefit system (ASTROC2M Token) integrated directly into the Genesis collection.
+Its core direction is to connect:
 
-Infrastructure Support: Advanced scripts and utilities optimized for seamless interaction with Polygon dApps and L2 solutions.
+- digital access through the ASTROC2M NFT layer
+- internal ecosystem utility through the ASTROC2M token
+- educational and onboarding experiences
+- interactive hub participation
+- real game-layer exploration
+- stronger ecosystem growth over time
 
-🚀 Genesis NFT Utility & Access
-The ASTROC2M Genesis NFT (ERC721A) serves as an exclusive access key to our private ecosystem:
+## ASTROC2M NFT Utility & Access
 
-Holder Insight Dashboard: Real-time visualization of ecosystem metrics, category classifications (Infra, DeFi, Gaming), and network health.
+The ASTROC2M NFT is the ecosystem’s primary digital access layer.
 
-Sustainability Protocols: Implementation of the 80/20 Liquidity Rule to ensure long-term ecosystem stability.
+It is designed to:
 
-Community Patents: A hierarchical ranking system (from Cadet to Admiral) based on ecosystem engagement and holding duration.
+- provide access to evolving ecosystem experiences
+- support participation across connected ASTROC2M layers
+- function as part of a broader long-term ecosystem structure
+- connect users with a growing platform rather than a static collection
 
-🛠️ Live Ecosystem Components
-Main Hub: astroc2m.com
+## ASTROC2M Token Utility
 
-Minting Application: app.astroc2m.com
-Gaming Environment: hub.astroc2m.com
+The ASTROC2M token is part of the ecosystem’s internal utility layer.
 
-🛰️ Architecture & Standards
-Network: Polygon PoS / zkEVM.
+Its intended role is operational and ecosystem-based, supporting:
 
-Standard: ERC721A (Low-gas optimized minting).
+- onboarding
+- interaction
+- participation
+- platform progression
+- connected experience flows inside ASTROC2M
 
-Metadata: This repository exposes machine-readable endpoints for ecosystem discovery and automated community support tools.
+ASTROC2M token utility should be understood strictly within the operational context of the ecosystem and not as a promise of profit, yield, or financial entitlement.
 
-© 2026 ASTROC2M Protocol. Focused on transparency, community growth, and reliability on the Polygon Network.
+## Participation Mechanics
+
+ASTROC2M currently includes structured ecosystem participation mechanics:
+
+- **100 ASTROC2M Initial Utility**  
+  Each eligible ASTROC2M NFT acquisition currently includes 100 ASTROC2M as initial ecosystem utility.
+
+- **Gifting Mechanic**  
+  Eligible NFT gifting may grant access to a bonus NFT from a dedicated bonus collection.
+
+- **180-Day Bonus NFT Lock**  
+  The bonus NFT is subject to a structured 180-day lock designed to reinforce delayed activation, stronger alignment, and non-immediate bonus availability.
+
+These mechanics are part of ASTROC2M’s ecosystem participation design and should not be interpreted as dividends, guaranteed future benefits, or speculative promises.
+
+## Live Ecosystem Components
+
+- **Main Site:** https://astroc2m.com  
+- **Minting / Ecosystem Access:** https://app.astroc2m.com  
+- **Gaming / Interactive Hub:** https://hub.astroc2m.com  
+
+## Official Verification
+
+- **NFT Contract:** https://polygonscan.com/token/0x7bd589a507f6140fCD65158fc30A44d0D035d8DF  
+- **Token Contract:** https://polygonscan.com/token/0x59fa5D8ec6074Cb67dda26E447506c510d940A07  
+- **Whitepaper PDF:** https://github.com/astroc2m/polygon-community-utility/raw/main/whitepaper.pdf  
+
+## Security Reminder
+
+Users should always:
+
+- verify official ASTROC2M domains before interacting
+- verify official contracts through trusted public references
+- use a separate wallet for routine Web3 interaction whenever possible
+- never share seed phrase or private key
+
+ASTROC2M will never ask for a seed phrase or private key.
+
+## Ecosystem Positioning
+
+ASTROC2M should be approached as a serious, growing ecosystem built around access, interaction, education, internal utility, and platform evolution.
+
+The ecosystem is already real, but it is still at the beginning of a broader journey with meaningful room for future expansion.
