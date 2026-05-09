@@ -69,7 +69,7 @@ Always verify official links through the ASTROC2M Trust Center before interactin
 
 https://astroc2m.space/trust-center/
 
----
+----
 
 ## Current Safety Status
 
